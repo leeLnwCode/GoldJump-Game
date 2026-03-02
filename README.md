@@ -36,12 +36,6 @@ This project demonstrates:
 - UI styling with external CSS
 - Game state management (Win / Game Over logic)
 
-## Technologies Used
-- Java
-- JavaFX
-- CSS (for UI styling)
-- VS Code
-
 ## Features
 - Login Screen
 - Character Selection
@@ -57,7 +51,7 @@ This project demonstrates:
 3. Configure JavaFX library path
 4. Run `Main.java`
 
-## earning Outcomes
+## Learning Outcomes
 Through this project, I gained experience in:
 - Structuring medium-sized Java projects
 - Managing UI states and transitions
